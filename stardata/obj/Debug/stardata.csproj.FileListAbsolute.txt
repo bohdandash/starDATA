@@ -1,0 +1,11 @@
+D:\UE5\star\stardata\stardata\bin\Debug\stardata.exe.config
+D:\UE5\star\stardata\stardata\bin\Debug\stardata.exe
+D:\UE5\star\stardata\stardata\bin\Debug\stardata.pdb
+D:\UE5\star\stardata\stardata\obj\Debug\stardata.csproj.AssemblyReference.cache
+D:\UE5\star\stardata\stardata\obj\Debug\stardata.csproj.SuggestedBindingRedirects.cache
+D:\UE5\star\stardata\stardata\obj\Debug\stardata.Form1.resources
+D:\UE5\star\stardata\stardata\obj\Debug\stardata.Properties.Resources.resources
+D:\UE5\star\stardata\stardata\obj\Debug\stardata.csproj.GenerateResource.cache
+D:\UE5\star\stardata\stardata\obj\Debug\stardata.csproj.CoreCompileInputs.cache
+D:\UE5\star\stardata\stardata\obj\Debug\stardata.exe
+D:\UE5\star\stardata\stardata\obj\Debug\stardata.pdb
