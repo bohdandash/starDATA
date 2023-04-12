@@ -1,4 +1,6 @@
-![Logo(genspi)](https://i.imgur.com/q0i4gey.png)
+<p align="center">
+  <img src="https://i.imgur.com/q0i4gey.png" width="270,2" height="251,3">
+</p>
 
 <h1 align="center">starDATA</h1>
 
